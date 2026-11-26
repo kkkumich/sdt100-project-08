@@ -1,0 +1,38 @@
+===== part1_overflow.Main.txt =====
+INPUT (demo data):
+
+OUTPUT:
+Expected demonstration: java.lang.StackOverflowError
+
+
+===== part1_recursion.Main.txt =====
+INPUT (demo data):
+9
+
+OUTPUT:
+n (0-500): 9 8 7 6 5 4 3 2 1 
+1 2 3 4 5 6 7 8 9 
+
+
+===== part2_recursive_arrays.Main.txt =====
+INPUT (demo data):
+
+OUTPUT:
+2 5 2 -1 2 
+Sum: 10
+Count of 2: 3
+
+
+===== part3_recursive_strings.Main.txt =====
+INPUT (demo data):
+
+OUTPUT:
+J
+a
+v
+a
+a
+v
+a
+J
+avaJ
